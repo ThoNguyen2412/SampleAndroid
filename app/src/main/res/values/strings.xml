@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="Tho">TextView</string>
+    <string name="sing_in">Tổng</string>
+    <string name="send_email">check box</string>
+    <string name="dang_ky">Click_Long</string>
+    <string name="close">EX 4</string>
+    <string name="Log_in">EX 5</string>
+    <string name="Resgister">EX 6</string>
+    <string name="hello_1">Click</string>
+    <string name="hello_2">Long Click</string>
+    <string name="button_21">Click or LongClick</string>
+    <string name="cong">Cộng</string>
+</resources>
